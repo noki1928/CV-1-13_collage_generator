@@ -11,7 +11,7 @@
 
 2. Запустите скрипт:
    ```bash
-   python collage_generator.py
+   python main.py
    ```
 
 ## Требования
