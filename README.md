@@ -4,20 +4,10 @@
 
 ## Установка
 
-1. Установите зависимости:
+1. Склонируйте репозиторий или скачайте файлы.
+2. Установите зависимости:
    ```bash
-   pip install scikit-image numpy matplotlib
-   ```
-
-2. Запустите скрипт:
-   ```bash
-   python main.py
-   ```
-
-## Требования
-
-- Python 3.x
-- Библиотеки: scikit-image, numpy, matplotlib
+   pip install -r requirements.txt
 
 ## Описание
 
